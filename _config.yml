@@ -74,6 +74,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - vendor
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
 
 plugins:
   - jekyll-remote-theme
