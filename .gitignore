@@ -1,12 +1,11 @@
 .DS_Store
 
-# Compiled site
-_site
+# Old Jekyll / local preview (do not commit)
+_site/
 .jekyll-cache/
-
-# Sass garbage
-.sass-cache
-
-# Bundler
+.sass-cache/
 .bundle/
 vendor/
+
+# Optional: leftover from earlier theme (not used on static site)
+assets/
